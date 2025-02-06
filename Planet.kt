@@ -8,6 +8,8 @@ fun main() {
         // Nested conditional to check if clearedOrbit is true
         if (clearedOrbit) {
             println("Celestial body is a planet.")
+        } else {
+            println("Celestial body is a dwarf planet.")
         }
     }
 }
