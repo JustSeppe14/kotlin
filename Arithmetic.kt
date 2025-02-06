@@ -13,4 +13,6 @@ fun main() {
     var total = caesarSalad + beefStroganoff + cheesecake
     var tip = 0.15
 
+    var finalAmount = total * tip + total
+    println(finalAmount)
 }
