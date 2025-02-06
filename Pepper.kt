@@ -16,5 +16,5 @@ fun main() {
     }
 
     // Output the pungency level
-    println("Pungency: $pungency")
+    println("A pepper with $sHU Scoville Heat Units has a $pungency pungency")
 }
