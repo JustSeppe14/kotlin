@@ -6,4 +6,5 @@ fun main() {
             "TCS NYC Marathon",
             "Marine Corps Marathon"
     )
+    println(unitedStatesMarathons[1])
 }
