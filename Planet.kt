@@ -3,7 +3,8 @@ fun main() {
     var hydrostaticEquilibrium = true // Rule 2
     var clearedOrbit = false // Rule 3
 
-    // Write your code below
-
-
+    // Check if orbitsStar and hydrostaticEquilibrium are both true
+    if (orbitsStar && hydrostaticEquilibrium) {
+        // Body of the if expression will go here in the future
+    }
 }
