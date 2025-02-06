@@ -5,6 +5,9 @@ fun main() {
 
     // Check if orbitsStar and hydrostaticEquilibrium are both true
     if (orbitsStar && hydrostaticEquilibrium) {
-        // Body of the if expression will go here in the future
+        // Nested conditional to check if clearedOrbit is true
+        if (clearedOrbit) {
+            println("Celestial body is a planet.")
+        }
     }
 }
